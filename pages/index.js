@@ -13,7 +13,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to <a href="https://nextjs.org">The Unicorn Startup</a>
+          Welcome to <a href="https://ramadevsign.com">The Unicorn Startup</a>
         </h1>
 
         <p className={styles.description}>
@@ -22,18 +22,18 @@ export default function Home() {
         </p>
 
         <div className={styles.grid}>
-          <a href="https://nextjs.org/docs" className={styles.card}>
+          <a href="https://ramadevsign.com" className={styles.card}>
             <h2>About &rarr;</h2>
             <p>a long text to describe something about the company</p>
           </a>
 
-          <a href="https://nextjs.org/learn" className={styles.card}>
+          <a href="https://ramadevsign.com" className={styles.card}>
             <h2>Meet the team &rarr;</h2>
             <p>a long text to describe something about the team we have here</p>
           </a>
 
           <a
-            href="https://github.com/vercel/next.js/tree/canary/examples"
+            href="https://ramadevsign.com"
             className={styles.card}
           >
             <h2>Careers &rarr;</h2>
@@ -41,7 +41,7 @@ export default function Home() {
           </a>
 
           <a
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
+            href="https://ramadevsign.com"
             className={styles.card}
           >
             <h2>Contact us &rarr;</h2>
@@ -54,7 +54,7 @@ export default function Home() {
 
       <footer className={styles.footer}>
         <a
-          href="https://vercel.com?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
+          href="https://ramadevsign.com"
           target="_blank"
           rel="noopener noreferrer"
         >
